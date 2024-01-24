@@ -16,7 +16,7 @@ let audioPlayed = false;
             playAudio();
         }
     });
-});
+/* }); */
 
 // Función para reproducir el audio
 function playAudio() {
