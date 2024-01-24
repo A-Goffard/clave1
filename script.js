@@ -3,10 +3,10 @@
 // Variable para rastrear si el audio ya se reprodujo
 let audioPlayed = false;
 
-/* document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
     // Muestra un mensaje para indicar que se requiere la interacción del usuario
     alert("¡Haga clic en cualquier lugar de la pantalla luego de cerrar esta pestaña para reproducir el audio!");
- */
+
     
 
     // Reproduce el audio cuando el usuario hace clic o toca
@@ -16,7 +16,7 @@ let audioPlayed = false;
             playAudio();
         }
     });
-/* }); */
+});
 
 // Función para reproducir el audio
 function playAudio() {
