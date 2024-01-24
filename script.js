@@ -5,7 +5,7 @@ let audioPlayed = false;
 
 document.addEventListener("DOMContentLoaded", function() {
     // Muestra un mensaje para indicar que se requiere la interacción del usuario
-    alert("¡Haga clic en cualquier lugar de la pantalla luego de cerrar esta pestaña para reproducir el audio!");
+    alert("¡Toca la pantalla a ver que pasa...!");
 
     
 
